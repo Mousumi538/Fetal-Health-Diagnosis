@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on **Fetal Health Diagnosis using Cardiotocography (CTG) data** by applying Machine Learning, Feature Selection, and Deep Learning techniques.
+This project focuses on **Fetal Health Diagnosis using Cardiotocography (CTG) and other related physiological data** by applying Machine Learning, Feature Selection, and Deep Learning techniques.
 The goal is to build a predictive system that can classify pregnancy conditions based on fetal heart rate signals and related features, and to demonstrate the results through performance metrics, graphs, and a simple front-end interface.
 
 The project was developed as part of an **M.Sc. Computer Science final year project**, with emphasis on program implementation, model comparison, and performance improvement using feature selection and signal segmentation.
@@ -32,7 +32,7 @@ This project uses CTG data to train machine learning and deep learning models to
 
 Dataset used in this project:
 
-* CTU-CHB Cardiotocography Dataset and High Risk Pregnancy Datset : https://physionet.org/content/ctu-uhb-ctgdb/1.0.0/
+* CTU-CHB Cardiotocography Dataset and High Risk Pregnancy Datset : https://physionet.org/content/ctu-uhb-ctgdb/1.0.0/ , https://data.mendeley.com/datasets/p5w98dvbbk/1
 * Contains multiple patient recordings and their physiological data
 * Each patient has signal data stored in `.hea` / signal files
 * Signals are long time-series recordings (~17500 samples)
